@@ -16,7 +16,7 @@ import java.io.IOException;
 
 
 
-public class WieTwo {
+public class WieTwo  {
 
     @FXML
     private Button button;
